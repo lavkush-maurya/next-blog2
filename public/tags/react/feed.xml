@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Lavkush Blog - Lavv coding journey</title>
+      <link>https://www.lavkushmaurya.me//blog</link>
+      <description>Lavkush Maurya: A full-stack dev&#39;s journey of work &amp; life through an open-minded keyboard. Stories of coding, life &amp; more! #CodingJourney #FullStackDev</description>
+      <language>en-us</language>
+      <managingEditor>lavkushmaurya147@gmail.com (Lavkush Maurya)</managingEditor>
+      <webMaster>lavkushmaurya147@gmail.com (Lavkush Maurya)</webMaster>
+      <lastBuildDate>Sun, 01 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.lavkushmaurya.me//tags/react/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.lavkushmaurya.me//blog/why-react-is-the-best-choice-for-modern-web-development</guid>
+    <title>Why React is the Best Choice for Modern Web Development</title>
+    <link>https://www.lavkushmaurya.me//blog/why-react-is-the-best-choice-for-modern-web-development</link>
+    <description>Explore the reasons why React has become the top choice for building modern web applications.</description>
+    <pubDate>Sun, 01 Oct 2023 00:00:00 GMT</pubDate>
+    <author>lavkushmaurya147@gmail.com (Lavkush Maurya)</author>
+    <category>React</category><category>Web Development</category><category>Frontend</category><category>JavaScript</category>
+  </item>
+
+    </channel>
+  </rss>
